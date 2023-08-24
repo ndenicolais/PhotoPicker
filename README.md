@@ -21,7 +21,8 @@ Click Run to start the project on the selected device.
 
 ## 🛠️ Built with
 Kotlin</br>
-Jetpack Compose
+Jetpack Compose<br>
+Coil
 
 ## 📚 Package Structure
 
